@@ -1,0 +1,3 @@
+disableKinds = ["RSS", "sitemap"]
+[minify]
+  minifyOutput = true
